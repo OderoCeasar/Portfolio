@@ -18,7 +18,7 @@ Welcome to my personal portfolio website! 🎉 This site showcases my skills, pr
 
 ## 📂 Project Links
 
-- **Portfolio Website**: [Live Demo]([https://oderoceasar.github.io/](https://oderoceasar.github.io/Portfolio/))  
+- **Portfolio Website**: [Live Demo](https://oderoceasar.github.io/Portfolio/) 
 - **Viatu House (E-commerce for Shoes)**: [View Project](https://oderoceasar.github.io/ViatuHouse-Website/)  
 - **Netflix Clone**: [View Project](https://oderoceasar.github.io/Netflix-Clone/)  
 
